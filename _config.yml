@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 
 collection:
-  comets:
+  list:
     output: true
     permalink: /List/:name

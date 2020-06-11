@@ -5,9 +5,9 @@
 
 # Collection List
 
-{% for comet in site.comets %}
-  <h2>{{comet.title}}</h2>
-  {{comet.content | markdownify}}
+{% for ele in site.list %}
+  <h2>{{ele.title}}</h2>
+  {{ele.content | markdownify}}
   <p>bla</p>
 {% endfor %}
 
