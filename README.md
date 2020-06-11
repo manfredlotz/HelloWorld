@@ -7,4 +7,7 @@
 
 [GitHub](http://github.com)
 
-file://./Products/prod1.md
+[Products](file://./Products/prod1.md)
+
+
+[my link](file:///C:/my_file.pdf)
