@@ -10,9 +10,8 @@
   <a href="{{ fruit.url }}">{{ fruit.title }}</a>
 {% endfor %}
 
-  <span class="fruits">
-    <a href="{{ fruits.url }}">{{ fruits.title }}</a>
-  </span>
+
+
 
 ## add a section
 
