@@ -8,7 +8,11 @@
 [GitHub](http://github.com)
 
 
-
+{% include List/banana.md %} 
+{% include List/apple.md %} 
 
 {% include_relative Products/prod1.md %}
 {% include_relative Other/addon.md %}
+
+
+
