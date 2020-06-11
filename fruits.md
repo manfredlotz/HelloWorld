@@ -9,6 +9,8 @@ title: Fruits
   <h2>{{ fruits.title }}</h2>
 </a>
 
+prebla
 <p class="post-excerpt">{{ fruits.description | truncate: 160 }}</p>
+postbla
 
 {% endfor %}  
