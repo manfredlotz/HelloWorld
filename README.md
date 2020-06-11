@@ -3,7 +3,7 @@
 - just for learning things
 - want to try out github pages
 
-# Collection List
+# Collection List 1
 
 {% for fruit in site.fruits %}
   <a href="{{ fruit.url }}index.html">{{ fruit.title }}</a>
