@@ -3,4 +3,4 @@ theme: jekyll-theme-cayman
 collection:
   comets:
     output: true
-    permalink: /List/:name/
+    permalink: /List/:name
