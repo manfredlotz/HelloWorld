@@ -3,4 +3,3 @@ theme: jekyll-theme-cayman
 collection:
   list:
     output: true
-    permalink: /List/:name
