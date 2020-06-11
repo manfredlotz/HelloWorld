@@ -2,6 +2,7 @@
 
 - just for learning things
 - want to try out github pages
+- another item
 
 # Collection List 1
 
@@ -20,7 +21,6 @@
 
 {% include_relative Products/prod1.md %}
 
-{% include_relative fruits.md %}
 
 {% include_relative Other/addon.md %}
 
