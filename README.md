@@ -16,6 +16,7 @@
 [GitHub](http://github.com)
 
 
+{% include_relative list.md %}
 
 {% include_relative Products/prod1.md %}
 {% include_relative Other/addon.md %}
