@@ -5,10 +5,9 @@
 
 # Collection List
 
-{% for ele in site.list %}
-  <h2>{{ele.title}}</h2>
-  {{ele.content | markdownify}}
-  <p>bla</p>
+{% for fruit in site.fruits %}
+  <h2>{{fruit.title}}</h2>
+  {{fruit.content | markdownify}}
 {% endfor %}
 
 ## add a section
