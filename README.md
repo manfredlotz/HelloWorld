@@ -7,8 +7,12 @@
 
 {% for fruit in site.fruits %}
   <h2>{{fruit.title}}</h2>
-  {{fruit.content | markdownify}}
+  <a href="{{ fruit.url }}">{{ fruit.title }}</a>
 {% endfor %}
+
+  <span class="fruits">
+    <a href="{{ fruits.url }}">{{ fruits.title }}</a>
+  </span>
 
 ## add a section
 
