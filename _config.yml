@@ -3,3 +3,4 @@ theme: jekyll-theme-cayman
 collections:
   fruits:
     output: true
+    permalink: /:collection/:path/
