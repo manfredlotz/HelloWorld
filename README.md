@@ -8,6 +8,7 @@
 {% for comet in site.comets %}
   <h2>{{comet.title}}</h2>
   {{comet.content | markdownify}}
+  <p>bla</p>
 {% endfor %}
 
 ## add a section
