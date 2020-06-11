@@ -6,7 +6,6 @@
 # Collection List
 
 {% for fruit in site.fruits %}
-  <h2>{{fruit.title}}</h2>
   <a href="{{ fruit.url }}">{{ fruit.title }}</a>
 {% endfor %}
 
